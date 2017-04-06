@@ -1,4 +1,4 @@
-# Hopscotch-JSON-IDE
+# hopscotch-json-ide
 
 This is a Hopscotch IDE that will be written in Python.
 
